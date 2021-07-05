@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS560430XDBVR
+D TPS560430XDBVR
+F http://www.ti.com/lit/ds/symlink/tps560430.pdf
+$ENDCMP
+# end doc library
